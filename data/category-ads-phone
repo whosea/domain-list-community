@@ -1,0 +1,34 @@
+# This file contains domains that clearly serving ads
+
+include:adcolony-ads
+include:adjust-ads
+include:adobe-ads
+include:apple-ads
+include:applovin-ads
+include:atom-data-ads
+
+include:dmm-ads
+
+include:google-ads
+include:hotjar-ads
+include:inner-active-ads
+
+include:mixpanel-ads
+include:mopub-ads
+
+include:newrelic-ads
+include:ogury-ads
+
+include:pubmatic-ads
+include:segment-ads
+
+include:spotify-ads
+include:supersonic-ads
+
+include:unity-ads
+
+# Httpool
+toboads.com
+
+# UNI Marketing
+ad.unimhk.com
