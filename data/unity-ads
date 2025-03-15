@@ -1,4 +1,5 @@
 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
+ads.unitychina.cn
 adunity.com
 analytics.cloud.unity3d.com
 api.uca.cloud.unity3d.com
@@ -18,6 +19,8 @@ mediation-tracking.prd.mz.internal.unity3d.com
 mediation.unity3d.com
 perf-events.cloud.unity3d.com
 publisher-event.ads.prd.ie.internal.unity3d.com
+splash-ads.cdn.unity.cn
+splash-ads.unitychina.cn
 thind-gke-euw.prd.data.corp.unity3d.com
 tracking.prd.mz.internal.unity3d.com
 unityads.unity.cn
